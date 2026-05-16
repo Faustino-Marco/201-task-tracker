@@ -9,6 +9,7 @@
   <link rel="stylesheet" href="css/reset.css">
   <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="css/time-page.css">
+  <script>document.documentElement.setAttribute('data-theme', localStorage.getItem('theme') || 'dark');</script>
 </head>
 
 <body id="time-page">
@@ -24,6 +25,7 @@
           <li id="link-myWorkouts"><a href="my-workouts.html">My Workouts</a></li>
         </ul>
       </nav>
+      <button id="theme-toggle" aria-label="Toggle colour scheme">Light</button>
     </header>
 
     <main id="main-content">
@@ -79,5 +81,6 @@
   </div>
   <script src="js/data.js"></script>
   <script src="js/app.js"></script>
+  <script src="js/theme.js"></script>
 </body>
 </html>
