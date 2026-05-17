@@ -59,6 +59,26 @@ Audit conducted 2026-05-16. Changes are grouped by effort level.
 
 ---
 
+---
+
+## Screenshots
+
+Before/after screenshots documenting the Claude Code revamp are in [`screenshots/`](screenshots/).
+
+| Before revamp (v2.0, 2022) | After revamp (v3.0, 2026) |
+|---|---|
+| [`screenshots/before-revamp/`](screenshots/before-revamp/) | [`screenshots/after-revamp/`](screenshots/after-revamp/) |
+
+The `before-revamp/` folder contains the original 2022 app screencap and presentation slides captured prior to the v3.0 revamp.
+
+---
+
+## Revamp Co-authorship
+
+The v2.1.0–v3.0.0 revamp (all 15 audit items) was co-authored with [Claude Code](https://claude.ai/code) using the `/revamp` skill created by **Faustino Marco Simpliciano**.
+
+---
+
 ### Attributions
 
 - Custom Button CSS example provided by :  
